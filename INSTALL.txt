@@ -6,6 +6,6 @@ From project root (\), write the following commands
 	
 $ cd build
 $ cmake ..
-$ make
+$ cmake --build
 
 executable is found in bin
